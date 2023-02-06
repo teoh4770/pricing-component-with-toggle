@@ -32,9 +32,9 @@ Users should be able to:
 - **Bonus**: Complete the challenge with just HTML and CSS
 
 ### Screenshot
-
-![](./screenshot.jpg)
-
+![desktop view](https://user-images.githubusercontent.com/98545971/216995666-ae020de7-20bd-49e5-ad8f-70dcaf0e0d51.png)
+![mobile view](https://user-images.githubusercontent.com/98545971/216995652-23ca6b76-2d7b-4324-af37-cdd207945b7d.png)
+![toggle state](https://user-images.githubusercontent.com/98545971/216995659-6f1c3415-4c21-42ed-9f52-0478af1b1be8.png)
 
 ### Links
 
