@@ -29,7 +29,6 @@ Users should be able to:
 
 - View the optimal layout for the component depending on their device's screen size
 - Control the toggle with both their mouse/trackpad and their keyboard
-- **Bonus**: Complete the challenge with just HTML and CSS
 
 ### Screenshot
 ![desktop view](https://user-images.githubusercontent.com/98545971/216995666-ae020de7-20bd-49e5-ad8f-70dcaf0e0d51.png)
@@ -62,7 +61,7 @@ It's been a while since I do the last Frontend Mentor challenge (about 2 months 
 - [Pricing Table Toggle - Design to HTML/CSS from Florin Pop]([https://www.example.com](https://www.youtube.com/live/NBkD-O7f4Bs?feature=share)) - By watching this video, it's not only help me understand how to build this thing, check the mistakes I made, but learn the way he codes, and the reason he codes that way.
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@teoh4770]([https://www.frontendmentor.io/profile/teoh4770])
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
